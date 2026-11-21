@@ -4,7 +4,7 @@ This project is my final submission for the Module 4 unit of my Web Development 
 
 ## Links to Github profile and site:
 
-[Github profile page]()
+[Github repository page](https://github.com/Siaaancode/Module-4)
 
 [Purrfect Plants Website]()
 
@@ -74,19 +74,28 @@ The overall purpose is to make buying plants easier for cat owners, providing a 
 # Website Strategy 
 [Return to table of Contents](#table-of-contents)
 
-......
+The strategy of this project is to develop a user-friendly and intuitive e-commerce website specialising in pet-friendly plants, that provides the customers with a easy and effective way to search, buy and track thier purchases. The primary users of this application will be customers that are looking to purchase plants, while staff will be able to manage products, categories, customer orders and stock levels separatley through Django admin.
+
+The website will feature a straightforward and accessible interface, allowing customers to browse products, view detailed plant information and make purchases with minimal difficulty. Customers will be able to explore different plant categories, view product descriptions and images, check availability and pricing, and add selected items to their shopping basket. Registered customers will also be able to create an account, manage their personal information and review their previous orders. An important aspect of the website will be providing clear information about plant safety, helping customers make informed purchasing decisions when selecting plants for pet-friendly environments.
+
+Python will be used as the primary programming language to develop the application's functionality and e-commerce logic. Django will provide the web framework and tools required to build the application, manage user authentication and interact with the database. Together, these technologies will allow the system to store and manage customer accounts, product information, categories, shopping baskets and order details. The database will also support stock management and order processing, helping to ensure that product availability is accurately maintained and that customers can complete their purchases efficiently.
+
+Stripe API will be integrated into the website to provide a secure and reliable payment processing system, allowing customers to pay for their purchases during checkout. Stripe Checkout will be used to handle the payment process, redirecting customers to a secure payment page where they can enter their payment details and complete their transactions. Django will communicate with the Stripe API to create checkout sessions using the products and quantities stored in the customer's basket.
 
 ## Project Goals
 
 The main goals of this project:
 
-1. 
-2. 
-3. 
+1. Develop a user-friendly and accessible e-commerce website that allows customers to browse, search and purchase a range of pet-friendly plants with ease.
+
+2. Implement a reliable e-commerce system using Django and a relational database to manage customer accounts, product information, shopping baskets, stock levels and customer orders.
+
+3. Integrate Stripe to provide secure online payment processing, allowing customers to complete purchases confidently while ensuring successful transactions are recorded and orders are updated accordingly.
 
 ## Target Audience
 
-......
+1. Plant enthusiasts
+2. Pet owners
 
 ## User Stories (User Research)
 
