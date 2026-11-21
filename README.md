@@ -153,22 +153,92 @@ During this process, I evaluated the strengths and weaknesses of each applicatio
 
 ### Websites
 
-#### Website 1 - 
-(LINK)
+#### Bloom & Wild
+https://www.bloomandwild.com/
 
 1. What’s good?
 
+- Clean design: The design is aesthetically pleasing and promotes a professional presence.
+- Easy navigation: The navigation is intuitive and it's easy to find certain products.
+- Product presentation: Products include images, names, prices, etc.
+- Pet-friendly category: The website has a specific category for pet-friendly plants.
+- Customer reviews: Ratings and reviews helps build customer confidence and reassurance about product quality.
+- Delivery options: Customers can select delivery date.
+- Customer support: Dedicated help centre provides information about orders, deliveries and product questions.
+
 2. What’s bad?
+
+- Busy navigation: There are too many product categories, it feels too cluttered and overwhelming.
+- Large amount of content: The home page has several promotional sections, which makes it difficult to identify needed information.
+- Limited focus on pet owners: Although it does have a pet friendly section, the websites main focus is plant and flowers in general.
+- Product information could be more specialised: Could have more detailed information about individual plants.
 
 3. Features I could use?
 
+- Product categories
+- Product cards
+- Search functionality
+- Customer accounts
+- Product reviews
+- Product care guides
+- Pet-friendly categories
+
 4. What could be improved?
+
+- Simplify navigation: Reduce unnecessary categories and prioritise more important sections.
+- Improve product filtering: Introduce filters to allow customers to sort products based on the personal requirements.
+- Provide more detailed plant information: Include watering frequency, lighting requirements and difficulty levels.
+
+#### plnts
+https://plnts.com/en-gb
+
+1. What’s good?
+
+- Modern design: Appealing appearance, consistant colour palette, quality images and organised layout.
+- Product variety: Large variety of different plants.
+- Pet-friendly category: Customers can filter products to show plants identified as pet-friendly.
+- Product filtering: Customers can filter plants by characteristics, room location, care requirements, etc.
+- Prodict information: Individual products display useful information.
+- Plant care guides: It provides useful information to help customers understand the plants maintenance and care requirements.
+- Customer reviews: Products reviews and overall customer ratings help build trust.
+- Delivery information: Website explains how the plant are packaged, shipped and prepared for delivery.
+- Additional products: Customers can browse and purchase additional items such as pots, watering equiptment, etc.
+
+2. What’s bad?
+
+- Busy homepage: Numerious promotional sections, product collections and featured categories. Feels overcrowded and unnecessary.
+- Complex navigation: The amount of caregories and subcategories could be overwhelming, particularly with customers who are unfamiliar with different plant varieties.
+- Limited pet-specific focus: Although it does contain a pet-friendly section, it's very limited compared to the rest of the products.
+- Potentially overwhelming plant information: Customers may find some of the plant terminology difficult to understand.
+- Customer service: Some customer reviews mention difficulties receiving support.
+
+3. Features I could use?
+
+- Product filtering
+- Pet-friendly products category
+- Product cards
+- Plant care guides
+- Related products
+
+4. What could be improved?
+
+- Simplify the homepage: Limit amount of sections and prioritise important information.
+- Improve pet-safety information: Provide more detailed information about which pets each plant is considered safe for.
+- Make navigation more accessible: Use a simpler navigation structure.
+- Improve product filtering: Introduce more specific filters, allowing customers to search by pet type, plant size, care requirements, etc.
+- Provide beginner-friendly descriptions: Explain botanical terminology and include straightforward care instructions.
 
 ### Research Outcome
 
-......
+Through my research, I have identified a gap in the market for e-commerce websites that specialise exclusively in pet-friendly plants. Both of the competitors I researched offer pet-friendly plants as a subcategory within a much wider product range, rather than making it the primary focus of their business.
+
+This has helped me identify an opportunity to develop a more specialised website that caters specifically to pet owners. By analysing the features and functionality used by these competitors, I have gained a clearer understanding of which elements I could incorporate into my own project, while identifying areas where I could improve the overall user experience and provide a more targeted shopping experience.
 
 Top priorities for users based on research:
+
+1. Easy and intuitive search and filter process
+2. Product categories
+3. Plant care guidance
 
 # Website Scope 
 [Return to table of Contents](#table-of-contents)
