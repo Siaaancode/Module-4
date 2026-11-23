@@ -63,18 +63,18 @@ This project is my final submission for the Module 4 unit of my Web Development 
 
 ## Project Description 
 
-This project is an e-commerce website specialising in cat-friendly houseplants, designed for plant lovers. The aim is to provide a convenient and accessible way for cat owners to discover and purchase houseplants that are considered non-toxic.
+This project is an e-commerce website specialising in pet-friendly houseplants, designed for plant lovers. The aim is to provide a convenient and accessible way for pet owners to discover and purchase houseplants that are considered non-toxic.
 
 It will offer a carefully selected range of plants, with product information to help customers make informed purchasing decisions based on their homes environments, plant care requirements and pet ownership.
 
 Customers will be able to browse and search for plants, manage a shopping basket, securely purchase and view order history.
 
-The overall purpose is to make buying plants easier for cat owners, providing a specialist shopping experience that considers the users love for both plants and their pets.
+The overall purpose is to make buying plants easier for pet owners, providing a specialist shopping experience that considers the users love for both plants and their pets.
 
 # Website Strategy 
 [Return to table of Contents](#table-of-contents)
 
-The strategy of this project is to develop a user-friendly and intuitive e-commerce website specialising in pet-friendly plants, that provides the customers with a easy and effective way to search, buy and track thier purchases. The primary users of this application will be customers that are looking to purchase plants, while staff will be able to manage products, categories, customer orders and stock levels separatley through Django admin.
+The strategy of this project is to develop a user-friendly and intuitive e-commerce website specialising in pet-friendly plants, that provides the customers with a easy and effective way to search, buy and track thier purchases. The primary users of this application will be customers that are looking to purchase plants, understand plant care and what plants are safe for pets.
 
 The website will feature a straightforward and accessible interface, allowing customers to browse products, view detailed plant information and make purchases with minimal difficulty. Customers will be able to explore different plant categories, view product descriptions and images, check availability and pricing, and add selected items to their shopping basket. Registered customers will also be able to create an account, manage their personal information and review their previous orders. An important aspect of the website will be providing clear information about plant safety, helping customers make informed purchasing decisions when selecting plants for pet-friendly environments.
 
@@ -254,15 +254,67 @@ Each user story has been labelled as either a must-have, should-have, or could-h
 ## Features
 
 ### Must-have
-......
+
+- Add items to basket
+- Browse products by category
+- Account creation and log in
+- Secure payments
+
 ### Should-have
-......
+
+- Adjust product quantities
+- View basket total
+- Search for products
+
 ### Could-have
-......
+
+- Save favourite products
+- Filter search results
+- View previous orders
 
 ## How user features support user stories:
 
-......
+Although responsiveness was not explicitly included as a user story, it is considered a fundamental requirement for any modern web application or program. The application has been designed to provide an accessible and user-friendly experience across a range of devices and screen sizes, ensuring all users can interact with the application effectively.
+
+1. Add items to basket:
+
+Allowing customers to add products to a shopping basket enables them to manage their selected items in one place and purchase multiple products in a single transaction.
+
+2. Browse products by category:
+
+This user story makes it easier for customers to find products by organising them into clear, intuitive categories, improving navigation and the overall shopping experience.
+
+3. Create an account and log in:
+
+Allows customers to create a personal account and securely access their information, making it easier to manage their details, track orders and access account-specific features.
+
+4. Make secure payments:
+
+Integrating Stripe allows customers to complete purchases securely using a trusted third-party payment provider, protecting sensitive payment information and providing confidence during checkout.
+
+5. Adjust product quantities:
+
+Allows customers to increase or decrease the quantity of individual products in their basket, giving them greater control over their purchases.
+
+6. View basket total:
+
+Displays the combined cost of all products in the shopping basket, allowing customers to review their spending before proceeding to checkout.
+
+7. Search for products:
+
+Provides customers with the ability to search for specific plants using keywords, making it quicker and easier to find products without browsing through every category.
+
+8. Save favourite products:
+
+Allows registered customers to save products to a favourites list so they can easily revisit products they are interested in purchasing at a later date.
+
+9. Filter search results:
+
+Allows customers to narrow down product listings using specific criteria, such as price, plant category, size and pet suitability, making it easier to find relevant products.
+
+10. View previous orders:
+
+Allows registered customers to view their previous purchases, providing a convenient way to review order information and keep track of their purchasing history.
 
 # Website Structure 
 [Return to table of Contents](#table-of-contents)
