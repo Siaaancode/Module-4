@@ -310,7 +310,7 @@ Allows registered customers to save products to a favourites list so they can ea
 
 9. Filter search results:
 
-Allows customers to narrow down product listings using specific criteria, such as price, plant category, size and pet suitability, making it easier to find relevant products.
+Allows customers to narrow down product listings using specific criteria, such as price, plant category, size and pet suitability, making it easier to find relevant products and providing a better user experience.
 
 10. View previous orders:
 
@@ -319,11 +319,187 @@ Allows registered customers to view their previous purchases, providing a conven
 # Website Structure 
 [Return to table of Contents](#table-of-contents)
 
-The homepage will ......
+The website will be structured to provide an easy, intuitive, and consistent experience for customers.
 
-The basket page will ......
+## Homepage
 
-etc. ......
+The homepage will provide users with an immediate insight into the purpose of the website. Showing clear navigation options, promotions of products and other relevant information. These should include:
+
+1. Primary navigation bar for key links:
+    - Logo linking to homepage
+    - Search bar
+    - Basket link
+    - Signup / Login option
+
+2. Secondary navigation bar for products:
+    - New in
+    - Indoor plants
+    - Outdoor plants
+    - Accessories
+
+3. Hero banner:
+    - Header
+    - Paragraph
+    - Image
+
+4. Promoted product cards section:
+    - Side filter bar
+    - Sort by dropdown menu
+    - Product cards including product image, name, description and price
+
+5. Footer information:
+    - Logo
+    - Links to support, about and contact
+    - Social media links
+
+## All products page
+
+The all products page will offer a location for users to view all the products on the website, in one conveinient place. This page will essentially be an extention of the home page with a heavier focus on product browsing.
+
+## Basket page
+
+The basket page will be a conveinent place where users can view every item they have selected to purchase.
+
+1. Product list:
+    - Item names
+    - Item cost based on quantity
+    - Buttons to add or decrease quantity
+
+2. Final total section:
+    - Items total cost
+    - Tax cost
+    - Delivery cost
+    - Final total with above combined
+
+3. Decorative image
+
+4. Buttons:
+    - Continue shopping
+    - Proceed to payment
+
+5. You may also like section:
+    - Product cards to relevant or promotional products
+
+
+## Individual products page
+
+The individual product page will be presented when a user clicks on a specific product card. This is for users to get more information on a product they are interested in purchasing.
+
+1. Key product information:
+    - Product name
+    - Product description
+    - Image
+    - Price
+    - Add to basket button
+    - Buttons to adjust quantity
+
+2. Plant care and information section:
+    - Icons with plant specific information like light requirements, etc.
+    - Collection of additional plant image
+
+3. You may also like section:
+    - Product cards to relevant or promotional products
+
+## Signup page
+
+The signup page will allow users to create a profile within the website, making purchases easier and faster by auto-completed their key information.
+
+1. Sign up form:
+    - Username
+    - First name
+    - Last name
+    - Phone number
+    - Email
+    - Address
+    - Postcode
+    - Password
+    - Confirm password
+    - Key information about secure password creation
+
+2. Already have an account link
+
+3. Button to create account
+
+## Signup confirmation page
+
+The sign up confirmation page gives users meaningful feedback that their account has successfully been created. 
+
+1. Confirmation header and paragraph
+
+2. Buttons to redirect users to the home page or profile
+
+## Login page
+
+The login page is designed to allow users to log into their accounts after creation.
+
+1. Login header
+
+2. Email and password input fields
+
+3. Don't have an account link
+
+4. Login button
+
+## Profile page
+
+The profile page will offer a selection of things for the users to view, change or delete.
+
+1. Personal details dropdown:
+    - Username
+    - First name
+    - Last name
+    - Phone number
+    - Email
+    - Address
+
+2. Orders dropdown
+    - Order cards stating key information about previous purchases, for example order number, items purchased on order, total cost of order, delivery address and billing address.
+
+3. Account options buttons:
+    - Edit personal details
+    - Delete profile
+
+## Edit profile page
+
+The edit profile page offers users the ability to change key information an their profile conveinently.
+
+1. Key information input sections
+
+2. Save button
+
+## Delete profile page
+
+The delete profile page offers users the ability to completely remove their accounts from the database.
+
+1. Delete profile header and paragraph to ensure the user wants to do so
+
+2. Delete and return to profile buttons
+
+## Checkout payment page
+
+The checkout page will be the final stage of proccessing the order through payment. Stripe will be specifically used for this website to provide secure and reliable purchases for users.
+
+1. Order summery dropdown:
+    - Dropdown will provide users with a list of the items they are purchasing 
+    - The total price on the side will be visable regardless of dropdown usage
+
+2. Stripe API integration
+
+## Order successful confirmation page
+
+The order successful confirmation page gives users meaningful feedback that their order has successfully been created.
+
+1. Confirmation header and paragraph with image
+
+2. Buttons to redirect users to the home page or profile
+
+## Error 404 page
+
+The error 404 page will provide users with a clear message that they have found a page that doesn't exist or no longer exists.
+
+1. Informative header
+
+2. Link back to home page
 
 ## User Journey
 
