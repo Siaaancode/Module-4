@@ -519,12 +519,224 @@ The error 404 page will provide users with a clear message that they have found 
 
 These wireframes were created during the planning stages of my project to establish an initial layout structure and generate ideas for the functionality to include. They helped to visualise the placement of key information and features, as well as supporting the development of an organised and clean interface. 
 
+
 ### Home page
 
-(INSERT INFORMATION ABOUT THE HOME PAGE)
-(IMAGE LINK)
+#### Mobile
+![Home page navigation bar and hero banner](/wireframes/mobile/home_page/mobile_navigation_bars_and_hero_banner.png)
+![Home page product filter, sort by dropdown and product cards](/wireframes/mobile/home_page/mobile_%20filter_sort_by_and_product_cards.png)
+![Home page footer](/wireframes/mobile/home_page/mobile_footer.png)
 
-### OTHER PAGES, ETC. ......
+#### Tablet
+![Home page navigation bar and hero banner](/wireframes/tablet/home_page/tablet_navigation_bars_and_hero_banner.png)
+![Home page product filter, sort by dropdown and product cards](/wireframes/tablet/home_page/tablet_%20filter_sort_by_and_product_cards.png)
+![Home page footer](/wireframes/tablet/home_page/tablet_footer.png)
+
+#### Laptop
+![Home page navigation bar and hero banner](/wireframes/laptop/home_page/laptop_navigation_bars_and_hero_banner.png)
+![Home page product filter, sort by dropdown and product cards](/wireframes/laptop/home_page/laptop_%20filter_sort_by_and_product_cards.png)
+![Home page footer](/wireframes/laptop/home_page/laptop_footer.png)
+
+#### Larger screens
+![Home page navigation bar and hero banner](/wireframes/larger_screens/home_page/larger_screens_navigation_bars_and_hero_banner.png)
+![Home page product filter, sort by dropdown and product cards](/wireframes/larger_screens/home_page/larger_screens_%20filter_sort_by_and_product_cards.png)
+![Home page footer](/wireframes/larger_screens/home_page/larger_screens_footer.png)
+
+
+### All products page
+
+#### Mobile
+![All products page](/wireframes/mobile/all_products_page/mobile_all_products_page.png)
+
+#### Tablet
+![All products page](/wireframes/tablet/all_products_page/tablet_all_products_page.png)
+![All products page](/wireframes/tablet/all_products_page/tablet_all_products_page_2.png)
+
+#### Laptop
+![All products page](/wireframes/laptop/all_product_page/laptop_all_products_page.png)
+![All products page](/wireframes/laptop/all_product_page/laptop_all_products_page_2.png)
+
+#### Larger screens
+![All products page](/wireframes/larger_screens/all_product_page/larger_screen_all_products_page.png)
+![All products page](/wireframes/larger_screens/all_product_page/larger_screen_all_products_page_2.png)
+
+
+### Basket page
+
+#### Mobile
+![Basket page](/wireframes/mobile/basket_page/mobile_basket_page.png)
+![Basket page](/wireframes/mobile/basket_page/mobile_basket_page_2.png)
+
+#### Tablet
+![Basket page](/wireframes/tablet/basket_page/tablet_basket_page.png)
+![Basket page](/wireframes/tablet/basket_page/tablet_basket_page_2.png)
+
+#### Laptop
+![Basket page](/wireframes/laptop/basket_page/laptop_basket_page.png)
+![Basket page](/wireframes/laptop/basket_page/laptop_basket_page_2.png)
+
+#### Larger screens
+![Basket page](/wireframes/larger_screens/basket_page/larger_screen_basket_page.png)
+![Basket page](/wireframes/larger_screens/basket_page/larger_screen_basket_page_2.png)
+
+
+### Individual products page
+
+#### Mobile
+![Individual product page](/wireframes/mobile/individual_product_page/mobile_individual_product_page.png)
+![Individual product page](/wireframes/mobile/individual_product_page/mobile_individual_product_page_2.png)
+
+#### Tablet
+![Individual product page](/wireframes/tablet/individual_product_page/tablet_individual_product_page.png)
+![Individual product page](/wireframes/tablet/individual_product_page/tablet_individual_product_page_2.png)
+
+#### Laptop
+![Individual product page](/wireframes/laptop/individual_product_page/laptop_individual_product_page.png)
+![Individual product page](/wireframes/laptop/individual_product_page/laptop_individual_product_page_2.png)
+
+#### Larger screens
+![Individual product page](/wireframes/larger_screens/individual_product_page/larger_screen_individual_product_page.png)
+![Individual product page](/wireframes/larger_screens/individual_product_page/larger_screen_individual_product_page_2.png)
+
+
+### Signup page
+
+#### Mobile
+![Signup page](/wireframes/mobile/signup_page/mobile_signup_page.png)
+
+#### Tablet
+![Signup page](/wireframes/tablet/signup_page/tablet_signup_page.png)
+
+#### Laptop
+![Signup page](/wireframes/laptop/signup_page/laptop_signup_page.png)
+
+#### Larger screens
+![Signup page](/wireframes/larger_screens/signup_page/larger_screen_signup_page.png)
+
+
+### Signup confirmation page
+
+#### Mobile
+![Signup confirmation page](/wireframes/mobile/signup_confirmation/mobile_signup_confirmation_page.png)
+
+#### Tablet
+![Signup confirmation page](/wireframes/tablet/signup_confirmation/tablet_signup_confirmation_page.png)
+
+#### Laptop
+![Signup confirmation page](/wireframes/laptop/signup_confirmation/laptop_signup_confirmation_page%20copy.png)
+
+#### Larger screens
+![Signup confirmation page](/wireframes/larger_screens/signup_confirmation/larger_screen_signup_confirmation_page.png)
+
+
+### Login page
+
+#### Mobile
+![Login page](/wireframes/mobile/login_page/mobile_login_page.png)
+
+#### Tablet
+![Login page](/wireframes/tablet/login_page/tablet_login_page.png)
+
+#### Laptop
+![Login page](/wireframes/laptop/login_page/laptop_login_page.png)
+
+#### Larger screens
+![Login page](/wireframes/larger_screens/login_page/larger_screen_login_page.png)
+
+
+### Profile page
+
+#### Mobile
+![Profile page](/wireframes/mobile/profile_page/mobile_profile_page.png)
+![Profile page](/wireframes/mobile/profile_page/mobile_profile_page_2.png)
+
+#### Tablet
+![Profile page](/wireframes/tablet/profile_page/tablet_profile_page.png)
+![Profile page](/wireframes/tablet/profile_page/tablet_profile_page_2.png)
+
+#### Laptop
+![Profile page](/wireframes/laptop/profile_page/laptop_profile_page.png)
+![Profile page](/wireframes/laptop/profile_page/laptop_profile_page_2.png)
+
+#### Larger screens
+![Profile page](/wireframes/larger_screens/profile_page/larger_screens_profile_page.png)
+![Profile page](/wireframes/larger_screens/profile_page/larger_screens_profile_page_2.png)
+
+
+### Edit profile page
+
+#### Mobile
+![Edit profile page](/wireframes/mobile/edit_profile/mobile_edit_profile_page.png)
+
+#### Tablet
+![Edit profile page](/wireframes/tablet/edit_profile/tablet_edit_profile_page.png)
+
+#### Laptop
+![Edit profile page](/wireframes/laptop/edit_profile/laptop_edit_profile_page%20copy.png)
+
+#### Larger screens
+![Edit profile page](/wireframes/larger_screens/edit_profile/larger_screen_edit_profile_page.png)
+
+
+### Delete profile page
+
+#### Mobile
+![Delete profile page](/wireframes/mobile/delete_profile_page/mobile_delete_profile_page.png)
+
+#### Tablet
+![Delete profile page](/wireframes/tablet/delete_profile_page/tablet_delete_profile_page.png)
+
+#### Laptop
+![Delete profile page](/wireframes/laptop/delete_profile_page/laptop_delete_profile_page%20copy.png)
+
+#### Larger screens
+![Delete profile page](/wireframes/larger_screens/delete_profile_page/larger_screen_delete_profile_page.png)
+
+
+### Checkout payment page
+
+#### Mobile
+![Checkout payment page](/wireframes/mobile/checkout_payment_page/mobile_checkout_payment_page.png)
+
+#### Tablet
+![Checkout payment page](/wireframes/tablet/checkout_payment_page/tablet_checkout_payment_page.png)
+
+#### Laptop
+![Checkout payment page](/wireframes/laptop/checkout_payment_page/laptop_checkout_payment_page.png)
+
+#### Larger screens
+![Checkout payment page](/wireframes/larger_screens/checkout_payment_page/larger_screen_checkout_payment_page.png)
+
+
+### Order successful confirmation page
+
+#### Mobile
+![Order successful confirmation](/wireframes/mobile/payment_successful_page/mobile_payment_successful_page.png)
+
+#### Tablet
+![Order successful confirmation](/wireframes/tablet/payment_successful_page/tablet_payment_successful_page.png)
+
+#### Laptop
+![Order successful confirmation](/wireframes/laptop/payment_successful_page/laptop_payment_successful_page.png)
+
+#### Larger screens
+![Order successful confirmation](/wireframes/larger_screens/payment_successful_page/larger_screen_payment_successful_page.png)
+
+
+### Error 404 page
+
+#### Mobile
+![Error 404 page](/wireframes/mobile/error_404/mobile_error_404.png)
+
+#### Tablet
+![Error 404 page](/wireframes/tablet/error_404/tablet_error_404.png)
+
+#### Laptop
+![Error 404 page](/wireframes/laptop/error_404/laptop_error_404.png)
+
+#### Larger screens
+![Error 404 page](/wireframes/larger_screens/error_404/larger_screens_error_404.png)
+
 
 # Website Surface 
 [Return to table of Contents](#table-of-contents)
