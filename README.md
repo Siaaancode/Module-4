@@ -321,9 +321,11 @@ Allows registered customers to view their previous purchases, providing a conven
 
 The website will be structured to provide an easy, intuitive, and consistent experience for customers.
 
-## Homepage
+## User Journey
 
-The homepage will provide users with an immediate insight into the purpose of the website. Showing clear navigation options, promotions of products and other relevant information. These should include:
+### Homepage
+
+The homepage will provide users with an immediate insight into the purpose of the website. From here, users can access almost every page of the website intuitively. It contains clear navigation options, promotions of products and other relevant information. These include:
 
 1. Primary navigation bar for key links:
     - Logo linking to homepage
@@ -352,13 +354,19 @@ The homepage will provide users with an immediate insight into the purpose of th
     - Links to support, about and contact
     - Social media links
 
-## All products page
+### All products page
 
 The all products page will offer a location for users to view all the products on the website, in one conveinient place. This page will essentially be an extention of the home page with a heavier focus on product browsing.
 
-## Basket page
+Users will be able to filter through the products based on specific criteria of their own and add products to their basket on this page.
+
+### Basket page
 
 The basket page will be a conveinent place where users can view every item they have selected to purchase.
+
+The basket page will be accessable through the primary navigation bar, from there users can view, edit and delete products they have previously added. They can also decide to continue shopping or proceed to payment to confirm their purchase.
+
+There is also a section underneath to encourage users to look at more products they may like, with buttons under each section that allows users to easily add them onto their order.
 
 1. Product list:
     - Item names
@@ -380,10 +388,9 @@ The basket page will be a conveinent place where users can view every item they 
 5. You may also like section:
     - Product cards to relevant or promotional products
 
+### Individual products page
 
-## Individual products page
-
-The individual product page will be presented when a user clicks on a specific product card. This is for users to get more information on a product they are interested in purchasing.
+The individual product page will be presented when a user clicks on a specific product card. This is for users to get more information on a product they are interested in purchasing. If the user decides to purchase the item, a button is available for them to adjust the quantity and add it to their basket.
 
 1. Key product information:
     - Product name
@@ -400,9 +407,9 @@ The individual product page will be presented when a user clicks on a specific p
 3. You may also like section:
     - Product cards to relevant or promotional products
 
-## Signup page
+### Signup page
 
-The signup page will allow users to create a profile within the website, making purchases easier and faster by auto-completed their key information.
+The signup page will allow users to create a profile within the website, making purchases easier and faster by auto-completed their key information. A link is available at the bottom for users that have already signed up and need to login instead.
 
 1. Sign up form:
     - Username
@@ -420,17 +427,17 @@ The signup page will allow users to create a profile within the website, making 
 
 3. Button to create account
 
-## Signup confirmation page
+### Signup confirmation page
 
-The sign up confirmation page gives users meaningful feedback that their account has successfully been created. 
+The sign up confirmation page gives users meaningful feedback that their account has successfully been created. This page appears after a successful signup form has been completed and offers users a choice between returning to the home page or going to their new profile page.
 
 1. Confirmation header and paragraph
 
 2. Buttons to redirect users to the home page or profile
 
-## Login page
+### Login page
 
-The login page is designed to allow users to log into their accounts after creation.
+The login page is designed to allow users to log into their accounts after creation. After users have successfully logged in, they will be redirected back to the home page. The redirect is to the home page because users can access most of the pages they may be looking for from there.
 
 1. Login header
 
@@ -440,9 +447,11 @@ The login page is designed to allow users to log into their accounts after creat
 
 4. Login button
 
-## Profile page
+### Profile page
 
 The profile page will offer a selection of things for the users to view, change or delete.
+
+Users will have the options to edit their profile information, delete their account or view their current and previous orders on this page.
 
 1. Personal details dropdown:
     - Username
@@ -459,7 +468,7 @@ The profile page will offer a selection of things for the users to view, change 
     - Edit personal details
     - Delete profile
 
-## Edit profile page
+### Edit profile page
 
 The edit profile page offers users the ability to change key information an their profile conveinently.
 
@@ -467,17 +476,19 @@ The edit profile page offers users the ability to change key information an thei
 
 2. Save button
 
-## Delete profile page
+### Delete profile page
 
-The delete profile page offers users the ability to completely remove their accounts from the database.
+The delete profile page offers users the ability to completely remove their accounts from the website database.
 
 1. Delete profile header and paragraph to ensure the user wants to do so
 
 2. Delete and return to profile buttons
 
-## Checkout payment page
+### Checkout payment page
 
 The checkout page will be the final stage of proccessing the order through payment. Stripe will be specifically used for this website to provide secure and reliable purchases for users.
+
+On this page there will be a dropdown option, so users can have the oppertunity to check the items and total price in their basket one last time before payment and confirmation of their order. They can then proceed with the payment.
 
 1. Order summery dropdown:
     - Dropdown will provide users with a list of the items they are purchasing 
@@ -485,30 +496,21 @@ The checkout page will be the final stage of proccessing the order through payme
 
 2. Stripe API integration
 
-## Order successful confirmation page
+### Order successful confirmation page
 
-The order successful confirmation page gives users meaningful feedback that their order has successfully been created.
+The order successful confirmation page gives users meaningful feedback that their order has successfully been created. From here, users can choose between being directed back to the home page or profile page through the available buttons.
 
 1. Confirmation header and paragraph with image
 
 2. Buttons to redirect users to the home page or profile
 
-## Error 404 page
+### Error 404 page
 
-The error 404 page will provide users with a clear message that they have found a page that doesn't exist or no longer exists.
+The error 404 page will provide users with a clear message that they have found a page that doesn't exist or no longer exists. At the bottom, the user will be offered a link to return to the home page. They also have the option from the links within the navigation bar as well.
 
 1. Informative header
 
 2. Link back to home page
-
-## User Journey
-
-- home page
-- product page
-- individual product page
-- Basket
-
-etc ......
 
 # Website Skeleton 
 [Return to table of Contents](#table-of-contents)
