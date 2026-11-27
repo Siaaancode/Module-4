@@ -741,11 +741,13 @@ These wireframes were created during the planning stages of my project to establ
 # Website Surface 
 [Return to table of Contents](#table-of-contents)
 
-......
+The design choices made throughout this project were intended to create a clean, modern, and professional aesthetic that aligns with the purpose of the web application. A consistent colour palette, typography, and spacing system were used to establish a strong visual identity while maintaining readability and ease of use. The interface was designed to minimise unnecessary visual clutter, allowing users to focus on the application's core functionality.
 
 ## Responsiveness
 
-......
+Responsive design is an essential industry standard, ensuring that users have a consistent experience across all device sizes. This web application was developed with accessibility as a key priority, following a mobile-first approach. The layout and interface were designed for smaller screens initially, before being progressively enhanced and adapted for larger devices.
+
+Most pages of the project achieve a Lighthouse accessibility, performance and best practices score of 100, demonstrating a strong commitment to inclusive design and adherence to recognised web accessibility best practices.
 
 ## Design Choice
 
